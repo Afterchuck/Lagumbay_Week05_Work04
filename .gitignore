@@ -1,0 +1,11 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio user files
+.vs/
+*.user
+*.suo
+
+# Runtime-generated product data
+products.json
